@@ -1,10 +1,10 @@
-#The Web Test
+<h1>The Web test<h1/>
+<br>
+Project Name: France League 1 App <br>
+Result Build With Webpack(/Dist).Full Source Code? <br>
+click here <a href="https://github.com/rahmannurhidayat022/FranceLeagueApp">MySourceCode</a> <br>
 
-Project Name: France League 1 App
-Result Build With Webpack(/Dist).Full Source Code?
-click here <a href="https://github.com/rahmannurhidayat022/FranceLeagueApp">MySourceCode</a>
-
-#Features
+<h1>Features</h1> <br>
 - Displays the match schedule
 - Displays the standing
 - You can save favorites schedule
@@ -12,7 +12,7 @@ click here <a href="https://github.com/rahmannurhidayat022/FranceLeagueApp">MySo
 - can offline mode
   don't worry, because all of that is runtime using the API
   
-#Tools
+<h1>Tools</h1> <br>
 - SPA
 - set notifications with firebase
 - Service Worker
@@ -21,5 +21,5 @@ click here <a href="https://github.com/rahmannurhidayat022/FranceLeagueApp">MySo
 - Use Webpack
 - and Workbox configuration
 
-#API
+<h1>API</h1> <br>
 source API : <a href="https://www.football-data.org/">Football API</a>
